@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 👋 About Me:  
-🎮 Passionate about gaming and game development.  
+🎮 Passionate about gaming and game development. You want a gamer contact me, you want a game engineer contact me too. I'll bring your idea come to life.
 
 ### 🛠 Tech Stack:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
